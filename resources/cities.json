@@ -1,0 +1,1003 @@
+[
+  {
+    "id": 1,
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "monthlyAvg": [
+      {
+        "high": 7,
+        "low": 3,
+        "dryDays": 19,
+        "snowDays": 4,
+        "rainfall": 68
+      },
+      {
+        "high": 6,
+        "low": 3,
+        "dryDays": 13,
+        "snowDays": 2,
+        "rainfall": 47
+      },
+      {
+        "high": 10,
+        "low": 6,
+        "dryDays": 16,
+        "snowDays": 1,
+        "rainfall": 65
+      },
+      {
+        "high": 11,
+        "low": 7,
+        "dryDays": 12,
+        "snowDays": 0,
+        "rainfall": 52
+      },
+      {
+        "high": 16,
+        "low": 11,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 59
+      },
+      {
+        "high": 17,
+        "low": 11,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 70
+      },
+      {
+        "high": 20,
+        "low": 12,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 74
+      },
+      {
+        "high": 20,
+        "low": 12,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 69
+      },
+      {
+        "high": 17,
+        "low": 10,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 64
+      },
+      {
+        "high": 14,
+        "low": 9,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 70
+      },
+      {
+        "high": 9,
+        "low": 6,
+        "dryDays": 20,
+        "snowDays": 1,
+        "rainfall": 82
+      },
+      {
+        "high": 7,
+        "low": 1,
+        "dryDays": 19,
+        "snowDays": 1,
+        "rainfall": 85
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "city": "Athens",
+    "country": "Greece",
+    "monthlyAvg": [
+      {
+        "high": 12,
+        "low": 7,
+        "dryDays": 21,
+        "snowDays": 1,
+        "rainfall": 53
+      },
+      {
+        "high": 12,
+        "low": 7,
+        "dryDays": 20,
+        "snowDays": 1,
+        "rainfall": 34.4
+      },
+      {
+        "high": 14,
+        "low": 8,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 56.8
+      },
+      {
+        "high": 18,
+        "low": 11,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 43.8
+      },
+      {
+        "high": 22,
+        "low": 15,
+        "dryDays": 26,
+        "snowDays": 0,
+        "rainfall": 16.9
+      },
+      {
+        "high": 26,
+        "low": 19,
+        "dryDays": 29,
+        "snowDays": 0,
+        "rainfall": 9.6
+      },
+      {
+        "high": 28,
+        "low": 22,
+        "dryDays": 30,
+        "snowDays": 0,
+        "rainfall": 4.7
+      },
+      {
+        "high": 28,
+        "low": 22,
+        "dryDays": 29,
+        "snowDays": 0,
+        "rainfall": 5.8
+      },
+      {
+        "high": 25,
+        "low": 19,
+        "dryDays": 27,
+        "snowDays": 0,
+        "rainfall": 23.5
+      },
+      {
+        "high": 21,
+        "low": 15,
+        "dryDays": 25,
+        "snowDays": 0,
+        "rainfall": 48.2
+      },
+      {
+        "high": 17,
+        "low": 11,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 66.6
+      },
+      {
+        "high": 13,
+        "low": 8,
+        "dryDays": 18,
+        "snowDays": 1,
+        "rainfall": 97.6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Atlanta GA",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 12,
+        "low": 2,
+        "dryDays": 18,
+        "snowDays": 2,
+        "rainfall": 99.5
+      },
+      {
+        "high": 14,
+        "low": 3,
+        "dryDays": 15,
+        "snowDays": 1,
+        "rainfall": 100.4
+      },
+      {
+        "high": 19,
+        "low": 7,
+        "dryDays": 19,
+        "snowDays": 1,
+        "rainfall": 128.1
+      },
+      {
+        "high": 23,
+        "low": 11,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 86.1
+      },
+      {
+        "high": 27,
+        "low": 16,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 104.8
+      },
+      {
+        "high": 30,
+        "low": 20,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 112.3
+      },
+      {
+        "high": 31,
+        "low": 22,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 178
+      },
+      {
+        "high": 32,
+        "low": 22,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 142.8
+      },
+      {
+        "high": 28,
+        "low": 18,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 122.2
+      },
+      {
+        "high": 23,
+        "low": 12,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 73
+      },
+      {
+        "high": 18,
+        "low": 7,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 106.9
+      },
+      {
+        "high": 13,
+        "low": 2,
+        "dryDays": 18,
+        "snowDays": 2,
+        "rainfall": 101.9
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "city": "Auckland",
+    "country": "New Zealand",
+    "monthlyAvg": [
+      {
+        "high": 23,
+        "low": 16,
+        "dryDays": 24,
+        "snowDays": 0,
+        "rainfall": 25.6
+      },
+      {
+        "high": 24,
+        "low": 16,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 19.9
+      },
+      {
+        "high": 22,
+        "low": 15,
+        "dryDays": 25,
+        "snowDays": 0,
+        "rainfall": 21.6
+      },
+      {
+        "high": 20,
+        "low": 13,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 46.7
+      },
+      {
+        "high": 17,
+        "low": 11,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 40.4
+      },
+      {
+        "high": 15,
+        "low": 9,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 46.7
+      },
+      {
+        "high": 14,
+        "low": 8,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 56.5
+      },
+      {
+        "high": 15,
+        "low": 8,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 56.4
+      },
+      {
+        "high": 16,
+        "low": 10,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 30.7
+      },
+      {
+        "high": 18,
+        "low": 11,
+        "dryDays": 24,
+        "snowDays": 0,
+        "rainfall": 32.3
+      },
+      {
+        "high": 19,
+        "low": 13,
+        "dryDays": 24,
+        "snowDays": 0,
+        "rainfall": 33.9
+      },
+      {
+        "high": 21,
+        "low": 15,
+        "dryDays": 25,
+        "snowDays": 0,
+        "rainfall": 26.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "city": "Austin TX",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 18,
+        "low": 6,
+        "dryDays": 15,
+        "snowDays": 1,
+        "rainfall": 67.8
+      },
+      {
+        "high": 20,
+        "low": 7,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 72.8
+      },
+      {
+        "high": 23,
+        "low": 10,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 67.8
+      },
+      {
+        "high": 27,
+        "low": 14,
+        "dryDays": 17,
+        "snowDays": 0,
+        "rainfall": 63.9
+      },
+      {
+        "high": 31,
+        "low": 19,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 122.4
+      },
+      {
+        "high": 34,
+        "low": 22,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 97.1
+      },
+      {
+        "high": 35,
+        "low": 23,
+        "dryDays": 24,
+        "snowDays": 0,
+        "rainfall": 31.6
+      },
+      {
+        "high": 36,
+        "low": 23,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 79.2
+      },
+      {
+        "high": 33,
+        "low": 20,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 63.9
+      },
+      {
+        "high": 29,
+        "low": 15,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 99.7
+      },
+      {
+        "high": 23,
+        "low": 10,
+        "dryDays": 17,
+        "snowDays": 0,
+        "rainfall": 66.2
+      },
+      {
+        "high": 19,
+        "low": 6,
+        "dryDays": 17,
+        "snowDays": 1,
+        "rainfall": 93
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "city": "Bangkok",
+    "country": "Thailand",
+    "monthlyAvg": [
+      {
+        "high": 33,
+        "low": 23,
+        "dryDays": 29,
+        "snowDays": 0,
+        "rainfall": 9.9
+      },
+      {
+        "high": 33,
+        "low": 24,
+        "dryDays": 25,
+        "snowDays": 0,
+        "rainfall": 17.7
+      },
+      {
+        "high": 34,
+        "low": 26,
+        "dryDays": 25,
+        "snowDays": 0,
+        "rainfall": 47.1
+      },
+      {
+        "high": 35,
+        "low": 27,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 75.6
+      },
+      {
+        "high": 34,
+        "low": 27,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 163.7
+      },
+      {
+        "high": 34,
+        "low": 26,
+        "dryDays": 12,
+        "snowDays": 0,
+        "rainfall": 138.6
+      },
+      {
+        "high": 33,
+        "low": 26,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 128.8
+      },
+      {
+        "high": 33,
+        "low": 26,
+        "dryDays": 13,
+        "snowDays": 0,
+        "rainfall": 136.7
+      },
+      {
+        "high": 33,
+        "low": 25,
+        "dryDays": 8,
+        "snowDays": 0,
+        "rainfall": 254.5
+      },
+      {
+        "high": 33,
+        "low": 25,
+        "dryDays": 12,
+        "snowDays": 0,
+        "rainfall": 193.4
+      },
+      {
+        "high": 33,
+        "low": 24,
+        "dryDays": 25,
+        "snowDays": 0,
+        "rainfall": 26.1
+      },
+      {
+        "high": 33,
+        "low": 22,
+        "dryDays": 29,
+        "snowDays": 0,
+        "rainfall": 5.8
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "city": "Barcelona",
+    "country": "Spain",
+    "monthlyAvg": [
+      {
+        "high": 14,
+        "low": 5,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 47
+      },
+      {
+        "high": 15,
+        "low": 6,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 23.3
+      },
+      {
+        "high": 17,
+        "low": 8,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 55.1
+      },
+      {
+        "high": 18,
+        "low": 10,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 42.2
+      },
+      {
+        "high": 22,
+        "low": 13,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 49.1
+      },
+      {
+        "high": 25,
+        "low": 17,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 28.6
+      },
+      {
+        "high": 28,
+        "low": 20,
+        "dryDays": 26,
+        "snowDays": 0,
+        "rainfall": 26.5
+      },
+      {
+        "high": 29,
+        "low": 21,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 65.1
+      },
+      {
+        "high": 26,
+        "low": 17,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 78
+      },
+      {
+        "high": 22,
+        "low": 14,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 84.7
+      },
+      {
+        "high": 17,
+        "low": 9,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 59.4
+      },
+      {
+        "high": 14,
+        "low": 6,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 46.1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "city": "Beijing",
+    "country": "China",
+    "monthlyAvg": [
+      {
+        "high": 2,
+        "low": -9,
+        "dryDays": 28,
+        "snowDays": 3,
+        "rainfall": 3.6
+      },
+      {
+        "high": 6,
+        "low": -5,
+        "dryDays": 26,
+        "snowDays": 3,
+        "rainfall": 5.1
+      },
+      {
+        "high": 13,
+        "low": 1,
+        "dryDays": 27,
+        "snowDays": 2,
+        "rainfall": 17
+      },
+      {
+        "high": 21,
+        "low": 8,
+        "dryDays": 24,
+        "snowDays": 0,
+        "rainfall": 26.4
+      },
+      {
+        "high": 27,
+        "low": 14,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 44
+      },
+      {
+        "high": 31,
+        "low": 19,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 72.2
+      },
+      {
+        "high": 32,
+        "low": 22,
+        "dryDays": 13,
+        "snowDays": 0,
+        "rainfall": 185.5
+      },
+      {
+        "high": 31,
+        "low": 21,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 156.5
+      },
+      {
+        "high": 26,
+        "low": 15,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 55.4
+      },
+      {
+        "high": 20,
+        "low": 7,
+        "dryDays": 23,
+        "snowDays": 0,
+        "rainfall": 35.3
+      },
+      {
+        "high": 10,
+        "low": -1,
+        "dryDays": 25,
+        "snowDays": 2,
+        "rainfall": 11.5
+      },
+      {
+        "high": 4,
+        "low": -6,
+        "dryDays": 29,
+        "snowDays": 4,
+        "rainfall": 2.6
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "city": "Berlin",
+    "country": "Germany",
+    "monthlyAvg": [
+      {
+        "high": 3,
+        "low": -1,
+        "dryDays": 7,
+        "snowDays": 10,
+        "rainfall": 42
+      },
+      {
+        "high": 3,
+        "low": -2,
+        "dryDays": 10,
+        "snowDays": 10,
+        "rainfall": 36
+      },
+      {
+        "high": 8,
+        "low": 1,
+        "dryDays": 11,
+        "snowDays": 5,
+        "rainfall": 30
+      },
+      {
+        "high": 13,
+        "low": 4,
+        "dryDays": 11,
+        "snowDays": 2,
+        "rainfall": 36
+      },
+      {
+        "high": 19,
+        "low": 9,
+        "dryDays": 13,
+        "snowDays": 0,
+        "rainfall": 48
+      },
+      {
+        "high": 21,
+        "low": 12,
+        "dryDays": 9,
+        "snowDays": 0,
+        "rainfall": 72
+      },
+      {
+        "high": 24,
+        "low": 14,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 36
+      },
+      {
+        "high": 24,
+        "low": 14,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 45
+      },
+      {
+        "high": 19,
+        "low": 11,
+        "dryDays": 12,
+        "snowDays": 0,
+        "rainfall": 39
+      },
+      {
+        "high": 14,
+        "low": 7,
+        "dryDays": 13,
+        "snowDays": 0,
+        "rainfall": 24
+      },
+      {
+        "high": 7,
+        "low": 3,
+        "dryDays": 9,
+        "snowDays": 4,
+        "rainfall": 51
+      },
+      {
+        "high": 4,
+        "low": 0,
+        "dryDays": 8,
+        "snowDays": 9,
+        "rainfall": 51
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "city": "Bologna",
+    "country": "Italy",
+    "monthlyAvg": [
+      {
+        "high": 11,
+        "low": 2,
+        "dryDays": 20,
+        "snowDays": 1,
+        "rainfall": 45
+      },
+      {
+        "high": 13,
+        "low": 3,
+        "dryDays": 20,
+        "snowDays": 1,
+        "rainfall": 48.6
+      },
+      {
+        "high": 16,
+        "low": 6,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 42.5
+      },
+      {
+        "high": 19,
+        "low": 8,
+        "dryDays": 17,
+        "snowDays": 0,
+        "rainfall": 95
+      },
+      {
+        "high": 25,
+        "low": 13,
+        "dryDays": 21,
+        "snowDays": 0,
+        "rainfall": 77
+      },
+      {
+        "high": 29,
+        "low": 16,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 50.4
+      },
+      {
+        "high": 32,
+        "low": 19,
+        "dryDays": 26,
+        "snowDays": 0,
+        "rainfall": 31.5
+      },
+      {
+        "high": 32,
+        "low": 19,
+        "dryDays": 24,
+        "snowDays": 0,
+        "rainfall": 42.5
+      },
+      {
+        "high": 27,
+        "low": 15,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 76.2
+      },
+      {
+        "high": 21,
+        "low": 11,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 106.9
+      },
+      {
+        "high": 15,
+        "low": 7,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 133.4
+      },
+      {
+        "high": 11,
+        "low": 3,
+        "dryDays": 18,
+        "snowDays": 1,
+        "rainfall": 86.8
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "city": "Boston MA",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 4,
+        "low": -4,
+        "dryDays": 15,
+        "snowDays": 10,
+        "rainfall": 110.9
+      },
+      {
+        "high": 4,
+        "low": -4,
+        "dryDays": 15,
+        "snowDays": 9,
+        "rainfall": 91.3
+      },
+      {
+        "high": 7,
+        "low": -1,
+        "dryDays": 15,
+        "snowDays": 7,
+        "rainfall": 131.1
+      },
+      {
+        "high": 12,
+        "low": 4,
+        "dryDays": 13,
+        "snowDays": 2,
+        "rainfall": 118.9
+      },
+      {
+        "high": 18,
+        "low": 9,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 96.5
+      },
+      {
+        "high": 23,
+        "low": 14,
+        "dryDays": 16,
+        "snowDays": 0,
+        "rainfall": 87.8
+      },
+      {
+        "high": 26,
+        "low": 17,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 67.9
+      },
+      {
+        "high": 25,
+        "low": 17,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 99.6
+      },
+      {
+        "high": 22,
+        "low": 14,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 117.5
+      },
+      {
+        "high": 16,
+        "low": 8,
+        "dryDays": 17,
+        "snowDays": 0,
+        "rainfall": 102.8
+      },
+      {
+        "high": 11,
+        "low": 3,
+        "dryDays": 15,
+        "snowDays": 1,
+        "rainfall": 110.3
+      },
+      {
+        "high": 6,
+        "low": -2,
+        "dryDays": 16,
+        "snowDays": 7,
+        "rainfall": 109.8
+      }
+    ]
+  }
+]
